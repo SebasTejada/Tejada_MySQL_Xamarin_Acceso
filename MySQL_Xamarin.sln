@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL_Xamarin", "MySQL_Xamarin\MySQL_Xamarin.csproj", "{47256339-9503-4C53-A3D1-F862C57F7F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47256339-9503-4C53-A3D1-F862C57F7F44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2478F504-AD62-443F-BB8C-2CA0E358654C}
+	EndGlobalSection
+EndGlobal
